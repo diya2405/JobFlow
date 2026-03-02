@@ -1,3 +1,10 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase)
+![AI Powered](https://img.shields.io/badge/AI-Powered-purple)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active%20Development-success)
+
 # 🚀 JobFlow — AI Powered Job Management Platform
 
 <p align="center">
@@ -218,5 +225,6 @@ If you like this project:
 <p align="center">
 Made with ❤️ using Flutter & Firebase
 </p>
+
 
 
