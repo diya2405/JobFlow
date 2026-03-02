@@ -1,7 +1,7 @@
 # 🚀 JobFlow — AI Powered Job Management Platform
 
 <p align="center">
-  <img src="assets/images/jobflow_banner.png" width="800"/>
+  <img src="assets/images/job_flow_banner.png" width="800"/>
 </p>
 
 <p align="center">
@@ -218,4 +218,5 @@ If you like this project:
 <p align="center">
 Made with ❤️ using Flutter & Firebase
 </p>
+
 
