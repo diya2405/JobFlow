@@ -1,17 +1,9 @@
-# Firebase / Server Secrets
-serviceAccountKey.json
-# Firebase Secrets
+# Firebase & Secrets
 *.json
 service-account.json
 fcm_sender/
 android/app/google-services.json
-# Firebase configs
-google-services.json
-GoogleService-Info.plist
-
-# Flutter
-build/
-.dart_tool/
+.env
 # Miscellaneous
 *.class
 *.log
