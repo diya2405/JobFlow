@@ -202,7 +202,7 @@ Detailed project documentation and system explanation:
 ➡️ [View Report](ProjectReports/JOBFLOW_Project_Report.pdf)
 
 📊 **Project Presentation**  
-➡️ [View PPT](ProjectReports/JobFlow_Presentation.pptx)
+➡️ [View PPT](ProjectReports/JobFlow-Presentation.pptx)
 
 The documentation includes:
 - System Architecture
@@ -210,6 +210,9 @@ The documentation includes:
 - Workflow Diagrams
 - Feature Explanation
 - Implementation Details
+  
+---
+
 ## 👩‍💻 Developer
 
 **Diya Shah**
@@ -234,6 +237,7 @@ If you like this project:
 <p align="center">
 Made with ❤️ using Flutter & Firebase
 </p>
+
 
 
 
