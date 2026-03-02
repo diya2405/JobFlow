@@ -194,6 +194,22 @@ flutter run
 
 ---
 
+## 📄 Project Documentation
+
+Detailed project documentation and system explanation:
+
+📘 **Project Report**  
+➡️ [View Report](ProjectReports/JobFlow_Project_Report.pdf)
+
+📊 **Project Presentation**  
+➡️ [View PPT](ProjectReports/JobFlow_Presentation.pptx)
+
+The documentation includes:
+- System Architecture
+- Database Design
+- Workflow Diagrams
+- Feature Explanation
+- Implementation Details
 ## 👩‍💻 Developer
 
 **Diya Shah**
@@ -218,6 +234,7 @@ If you like this project:
 <p align="center">
 Made with ❤️ using Flutter & Firebase
 </p>
+
 
 
 
