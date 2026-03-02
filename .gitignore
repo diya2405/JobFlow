@@ -1,10 +1,13 @@
-# Firebase Secrets
-google-services.json
-GoogleService-Info.plist
+# Firebase / Server Secrets
+service-account.json
 serviceAccountKey.json
 *.json
 
-# Flutter build
+# Firebase configs
+google-services.json
+GoogleService-Info.plist
+
+# Flutter
 build/
 .dart_tool/
 # Miscellaneous
