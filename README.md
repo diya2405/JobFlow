@@ -197,7 +197,7 @@ flutter run
 ## 👩‍💻 Developer
 
 **Diya Shah**
-Final Year IT Student
+2nd year IT Student
 
 📧 [diyanamya@gmail.com](mailto:diyanamya@gmail.com)
 🔗 GitHub: https://github.com/diya2405
@@ -218,3 +218,4 @@ If you like this project:
 <p align="center">
 Made with ❤️ using Flutter & Firebase
 </p>
+
